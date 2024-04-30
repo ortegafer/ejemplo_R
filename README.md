@@ -34,4 +34,21 @@ Si quiero que sea una lista ordenada:
 
 esto lo desarrollaré en una nota al pie [^1]
 
-[^1] que desarrolle aqui
+[^1]: que desarrolle aqui
+
+tambien hay emojis :+1: o :shipit:
+
+> [!NOTE]
+> información util que quiero puntualizar.
+
+> [!TIP]
+> consejos sobre como interpretar
+
+> [!IMPORTANT]
+> no hacer ruido
+
+> [!WARNING]
+> CUIDADO
+
+> [!CAUTION]
+> porque
